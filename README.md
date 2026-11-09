@@ -13,15 +13,6 @@ Course project: **SYSE-822 Applied Aerodynamics, Project I**.
 
 Develop a custom numerical solver in Python or MATLAB to simulate inviscid, incompressible potential flow over arbitrary 2D airfoil geometries (such as the NACA 4-digit series) using the Panel Method. The original instructions are in [`problem_statement/`](problem_statement/).
 
-| Rubric item | Weight | Where it is in the notebook |
-|---|---|---|
-| 10 minute presentation | 15% | Notebook cells are ordered as slides |
-| Code understanding | 30% | Sections 1 and 2, plus the viva cheat sheet |
-| Pressure coefficient (Cp) graph | 15% | Section 3 |
-| Lift coefficient (CL) for different alpha | 15% | Section 4 |
-| Drag coefficient (CD) analysis | 5% | Section 5 |
-| Velocity and pressure field visualisations | 20% | Section 6 |
-
 ## Method in five steps
 
 1. Replace the airfoil by N straight panels (cosine spacing, so more panels at the leading and trailing edges).
