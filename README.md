@@ -25,9 +25,9 @@ Develop a custom numerical solver in Python or MATLAB to simulate inviscid, inco
 
 ```
 panel_method_for_naca_airfoils/
-|-- panel_method_project.ipynb   main notebook (code, outputs and viva notes)
-|-- problem_statement/           original project instructions
-|-- results/                     result figures
+|-- panel_method_project.ipynb   Main notebook (code, outputs)
+|-- problem_statement/           Project instructions
+|-- results/                     Result figures
 |-- requirements.txt             Python packages needed
 |-- README.md
 |-- LICENSE
