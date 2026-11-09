@@ -74,7 +74,7 @@ Edit only the second cell and run all cells again:
 ```python
 CODE  = "2412"   # NACA 4-digit code: try 0012, 4412, 6409
 ALPHA = 5.0      # angle of attack in degrees
-N     = 160      # number of panels
+N     = 500      # number of panels
 ```
 
 ## Results
