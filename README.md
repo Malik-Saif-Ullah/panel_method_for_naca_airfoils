@@ -1,6 +1,6 @@
 # Panel Method for NACA Airfoils
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malik-Saif-Ullah/panel_method_for_naca_airfoils/blob/main/panel_method_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Malik-Saif-Ullah/panel_method_for_naca_airfoils/blob/main/panel_method_for_naca_airfoils.ipynb)
 
 A custom numerical solver, written from scratch in Python, that simulates **inviscid, incompressible potential flow over arbitrary 2D airfoils** (NACA 4-digit series) using the **Hess-Smith panel method**.
 
