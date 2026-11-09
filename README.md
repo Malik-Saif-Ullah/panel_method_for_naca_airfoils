@@ -8,7 +8,7 @@ Course project: **SYSE-822 Applied Aerodynamics, Project I**.
 
 ## Problem statement
 
-Develop a custom numerical solver in Python or MATLAB to simulate inviscid, incompressible potential flow over arbitrary 2D airfoil geometries (such as the NACA 4-digit series) using the Panel Method. The original instructions are in [`problem_statement/`](problem_statement/).
+Develop a custom numerical solver in Python or MATLAB to simulate inviscid, incompressible potential flow over arbitrary 2D airfoil geometries (such as the NACA 4-digit series) using the Panel Method. The original instructions are in [`problem_statement/`](problem_statement.pdf/).
 
 ## Method in five steps
 
